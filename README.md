@@ -22,4 +22,4 @@ pense que al hacerlo con struct seria mas facil de trabajar, entendible para el 
 
 -ganador(): cuenta los dados de cada jugador e imprime en pantalla quien es el ganador! :)
  
-- en el main() se dan las opciones de inicio del juego.
+- en el main() se dan las opciones de inicio del juego, se puede elegir quien empieza pero el color es el mismo siempre para el que empieza como en otros juegos.
